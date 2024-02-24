@@ -133,6 +133,6 @@ main section:nth-child(3) hr {
 
 @media screen and (max-width: 375px) {
     body {
-        background-position: -25% -60%, 130% 140%;
+        background-position: right 35vw bottom 50vh, left 45vw top 40vh;
     }
 }
